@@ -1,0 +1,287 @@
+
+ body{
+    height: 100%;  
+    margin: 0; 
+     /* background-image: url("image/welcomeBg.jpg"); */
+  }
+#fram{
+    padding-top: 10px;
+ }
+.row3{
+    width: 108px;
+    height: auto;  
+    padding-top: 20px;
+    margin-left: 10px;  
+    border : 3px solid gray;
+    padding: 3px;
+  }
+.row2{
+   
+    height: auto;
+    width: auto;
+  }
+#bt1-nonac{
+    position: absolute;
+    top: -50px; 
+    left: 550px;
+    border-radius: 35px;
+    background-color:black;
+    border:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt2-nonac{
+    position: absolute;
+    top: -50px; 
+    left: 655px;
+    border-radius: 35px;
+    background-color:rgb(136, 27, 45);
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt3-nonac{
+    position: absolute;
+    top: -50px; 
+    left: 760px;
+    border-radius: 35px;
+    background-color:rgb(95, 16, 10);
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt4-nonac{
+    position: absolute;
+    top: -50px; 
+    left: 865px;
+    border-radius: 35px;
+    background-color:rgb(163, 73, 67);
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt5-nonac{
+    position: absolute;
+    top: -50px; 
+    left: 970px;
+    border-radius: 35px;
+    background-color:rgb(107, 78, 76);
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+
+  #bt1-ac{
+    position: absolute;
+    top: -50px; 
+    left: 550px;
+    border-radius: 35px;
+    background-color:white;
+    border: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt2-ac{
+    position: absolute;
+    top: -50px; 
+    left: 655px;
+    border-radius: 35px;
+    background-color:white;
+    border: 4px solid rgb(136, 27, 45);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(136, 27, 45);
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt3-ac{
+    position: absolute;
+    top: -50px; 
+    left: 760px;
+    border-radius: 35px;
+    background-color:white;
+    border: 4px solid rgb(95, 16, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(95, 16, 10);
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt4-ac{
+    position: absolute;
+    top: -50px; 
+    left: 865px;
+    border-radius: 35px;
+    background-color:white;
+    border: 4px solid rgb(163, 73, 67);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(163, 73, 67);
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  #bt5-ac{
+    position: absolute;
+    top: -50px; 
+    left: 970px;
+    border-radius: 35px;
+    background-color:white;
+    border: 4px solid rgb(107, 78, 76);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(107, 78, 76);
+    font-size: 25px;
+    width: 100px;
+    height: 140px;
+    padding-top: 50px;
+
+  }
+  
+  #logo{
+    width: 20px;
+    height: 20px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-top: 50px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+   
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  h1{
+    font-size: 16px;
+    color: rgb(68, 34, 11);
+  }
+  h2{
+    font-size: 16px;
+    color: red;
+  }
+  #chair2{
+      margin-top: 45px;
+  }
+  #chair3{
+    margin-top: 25px;
+}
+ #chair6{
+    margin-top: 30px;
+ }
+ .row-footweb{
+    border: 5px solid brown;
+    background-color: brown;
+    width: auto;
+    height: 40px;
+    padding-top: 15px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+  }
+  .icon{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top:1295px;
+  }
+  #facebook{
+    margin-left: 20px;
+    
+  }
+  #twitter{
+    margin-left: 65px;
+  }
+  #ig{
+    margin-left: 110px;
+  }
+  #call{
+    margin-left: 155px;
+  }
+  #number{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    top:1286px;
+    left: 360px;
+  }
+  .icon-couch{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top:1115px;
+  }
+  #number-couch{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    top:1109px;
+    left: 360px;
+  }
+  .icon-cabinet{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top:1535px;
+  }
+  #number-cabinet{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    top:1530px;
+    left: 360px;
+  }
+  .icon-table{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top:1257px;
+  }
+  #number-table{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    top:1250px;
+    left: 360px;
+  }
+  .itemtable{
+    width: 250px;
+    height: 250px;
+  }
